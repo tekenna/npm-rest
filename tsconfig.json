@@ -2,6 +2,14 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "paths": {
+      "btn-lib": [
+        "./dist/btn-lib"
+      ],
+      "btn-lib-2": [
+        "./dist/btn-lib-2"
+      ]
+    },
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
     "strict": true,
